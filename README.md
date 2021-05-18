@@ -1,18 +1,4 @@
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -20,16 +6,16 @@
 <h3 align="center">Port Scanner</h3>
 
   <p align="center">
-    A port scanner using banner grabbing techniques to gather target system information
+    An active reconnaissance tool using banner grabbing techniques to gather target system information
     <br />
-    <a href="https://github.com/KyReid/Port Scanner"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/KyReid/port-scanner"><strong>Explore the docs</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KyReid/Port Scanner">View Demo</a>
+    <a href="https://github.com/KyReid/port-scanner">View Demo</a>
     ·
-    <a href="https://github.com/KyReid/Port Scanner/issues">Report Bug</a>
+    <a href="https://github.com/KyReid/port-scanner/issues">Report Bug</a>
     ·
-    <a href="https://github.com/KyReid/Port Scanner/issues">Request Feature</a>
+    <a href="https://github.com/KyReid/port-scanner/issues">Request Feature</a>
   </p>
 </p>
 
@@ -170,30 +156,5 @@ contributions you make are **greatly appreciated**.
 
 ## Contact
 
-Project Link: [https://github.com/KyReid/Port Scanner](https://github.com/KyReid/Port Scanner)
+Project Link: [https://github.com/KyReid/port-scanner](https://github.com/KyReid/port-scanner)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/KyReid/repo.svg?style=for-the-badge
-
-[contributors-url]: https://github.com/kyReid/Port Scanner/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/KyReid/repo.svg?style=for-the-badge
-
-[forks-url]: https://github.com/KyReid/Port Scanner/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/KyReid/repo.svg?style=for-the-badge
-
-[stars-url]: https://github.com/KyReid/Port Scanner/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/KyReid/repo.svg?style=for-the-badge
-
-[issues-url]: https://github.com/KyReid/Port Scanner/issues
-
-[license-shield]: https://img.shields.io/github/license/KyReid/repo.svg?style=for-the-badge
-
-[license-url]: https://github.com/KyReid/Port Scanner/blob/master/LICENSE.txt
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
